@@ -27,26 +27,26 @@ Show total marks, average percentage, and the corresponding grade to understand 
 
 This calculator helps students track their overall performance, calculate their average percentage, and interpret their academic standing through assigned grades. It simplifies understanding by presenting a comprehensive view of their performance across subjects.
 
-##Task 3: Currency Converter
-###Overview
+## Task 3: Currency Converter
+### Overview
 This currency converter is a simple tool built using Java that allows users to convert currency values between Indian Rupees (INR) and other specific countries without relying on a paid Exchange Rate API. It's designed to demonstrate a basic currency conversion functionality using a predefined map of country codes and their respective currencies.
 
-###Features
+### Features
 Conversion: Users can convert a specific amount from INR to the currency of a selected country.
 Supported Countries: Limited set of countries included in the converter due to the predefined mapping.
 
-##How to Use
-###Setup:
+## How to Use
+### Setup:
 Ensure you have Java installed on your system.
 Clone or download the repository to your local machine.
-###Run the Program:
+### Run the Program:
 Open the project in your preferred Java development environment.
 Locate the CurrencyConverter.java file and run it.
-###Using the Converter:
+### Using the Converter:
 Follow the on-screen instructions to input the amount in INR and select the target country by its country code.
 The program will display the converted amount in the selected country's currency.
-###Limitations
+### Limitations
 Static Mapping: The converter relies on a predefined mapping of country codes and currencies, limiting its scope to specific countries.
 Real-Time Rates: This tool does not fetch real-time exchange rates but uses a fixed mapping for demonstration purposes.
-###Contributing
+### Contributing
 Contributions and improvements are welcome! If you have ideas to enhance this converter or expand its functionality, feel free to fork the repository, make your changes, and create a pull request.
